@@ -1,5 +1,5 @@
 # DILS_3pop_SNP   
-Version 1.0.0 of DILS_3pop_SNP used in Leroy et. __al.__ (2021).  This is a modified version of DILS:  
+Version 1.0.0 of DILS_3pop_SNP used in Le Roy et. __al.__ (2021).  This is a modified version of DILS:  
 1. taking fasta file as input (ex: **Morpho_Peru_dils.fa.** in **/data**)  
 2. investigate models of divergence with/without gene flow for 3 species/populations.  
 3. designed for RAD datasets, by conditionning the mutations on the observed number of SNPs and not on the mutation rate.   
