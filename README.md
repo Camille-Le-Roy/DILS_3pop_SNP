@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/428997696.svg)](https://zenodo.org/badge/latestdoi/428997696)
 # DILS_3pop_SNP   
 Version 1.0.0 of DILS_3pop_SNP used in Le Roy et. __al.__ (2021).  This is a modified version of DILS:  
 1. taking fasta file as input (ex: **Morpho_Peru_dils.fa.** in **/data**)  
